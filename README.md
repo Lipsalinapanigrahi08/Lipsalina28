@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lipsalina panigrahi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipsalina-28&label=Profile%20views&color=0e75b6&style=flat" alt="lipsalina-28" /> </p>
 
@@ -19,4 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lipsalina-28&show_icons=true&locale=en" alt="lipsalina-28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lipsalina-28&" alt="lipsalina-28" /></p>
+
+
 
